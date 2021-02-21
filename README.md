@@ -1,11 +1,10 @@
 # Red_wine_Quality_prediction
 
-1. Problem Statement
+1.Problem Statement
 
 Predicting Quality of the Red wine using various different features
 
-2. Data Description
-Data is obtained from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+2.Data Description(Data is obtained from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
 Attribute information
 
