@@ -40,5 +40,7 @@ Output variable (based on sensory data):
 3.Modelling
 
 Algorithms Used
+
 --RandomForestClassifier
+
 --DecisionTreeClassifier
