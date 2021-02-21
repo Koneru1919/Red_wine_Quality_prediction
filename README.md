@@ -37,7 +37,7 @@ Output variable (based on sensory data):
 (i) - quality 
 
 
-4.Modelling
+3.Modelling
 
 Algorithms Used
 --RandomForestClassifier
